@@ -80,3 +80,19 @@ nav {
     width: 50px;
     height: 50px;
 }
+
+.back-button {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.back-link {
+    text-decoration: none;
+    font-size: 18px;
+    color: #00bfff; /* or any color you prefer */
+    font-weight: bold;
+}
+
+.back-link:hover {
+    text-decoration: underline;
+}
