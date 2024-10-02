@@ -128,6 +128,30 @@ footer {
     transform: translateY(50px);
 }
 
+#section1 {
+    background: rgba(255, 255, 255, 0.8); /* White with transparency */
+    background-image: url('group\ background1.jpg'); /* Replace with actual image path */
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: lighten;
+}
+
+#section2 {
+    background: rgba(255, 255, 255, 0.8); /* White with transparency */
+    background-image: url('group\ background2.jpg'); /* Replace with actual image path */
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: lighten;
+}
+
+#section3 {
+    background: rgba(255, 255, 255, 0.8); /* White with transparency */
+    background-image: url('group\ background3.jpg'); /* Replace with actual image path */
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: lighten;
+}
+
 .section.active {
     opacity: 1;
     transform: translateY(0);
