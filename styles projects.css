@@ -128,6 +128,39 @@ footer {
     transform: translateY(50px);
 }
 
+/* Specific Section Backgrounds with Transparency */
+#section1 {
+    background: rgba(255, 255, 255, 0.8); /* White with transparency */
+    background-image: url('projects\ background1.JPG'); /* Replace with actual image path */
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: lighten;
+}
+
+#section2 {
+    background: rgba(255, 255, 255, 0.8); /* White with transparency */
+    background-image: url('projects\ background2.JPG'); /* Replace with actual image path */
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: lighten;
+}
+
+#section3 {
+    background: rgba(255, 255, 255, 0.8); /* White with transparency */
+    background-image: url('projects\ background3.jpg'); /* Replace with actual image path */
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: lighten;
+}
+
+#section4 {
+    background: rgba(255, 255, 255, 0.8); /* White with transparency */
+    background-image: url('projects\ background4.jpg'); /* Replace with actual image path */
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: lighten;
+}
+
 .section.active {
     opacity: 1;
     transform: translateY(0);
